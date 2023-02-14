@@ -1,0 +1,51 @@
+#video{
+   width:100%;
+   height: 500px;
+   border: none;
+}
+.my_nav_bar{
+    top: 0;
+    z-index: 99999;
+}
+body
+{
+    text-align: center;
+    background-color: black;
+}
+#name {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.nav_bar_nav{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+
+   
+}
+.menu{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+}
+.travel_mainDiv{
+    border: 1px solid white;
+
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin: 20px
+}
+   
